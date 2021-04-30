@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/temple-ad/static/css/main.e136b62d.chunk.css",
-    "main.js": "/temple-ad/static/js/main.60d7f60a.chunk.js",
-    "main.js.map": "/temple-ad/static/js/main.60d7f60a.chunk.js.map",
+    "main.js": "/temple-ad/static/js/main.88caaef6.chunk.js",
+    "main.js.map": "/temple-ad/static/js/main.88caaef6.chunk.js.map",
     "runtime-main.js": "/temple-ad/static/js/runtime-main.8def02c2.js",
     "runtime-main.js.map": "/temple-ad/static/js/runtime-main.8def02c2.js.map",
-    "static/js/2.fbf6ec9e.chunk.js": "/temple-ad/static/js/2.fbf6ec9e.chunk.js",
-    "static/js/2.fbf6ec9e.chunk.js.map": "/temple-ad/static/js/2.fbf6ec9e.chunk.js.map",
+    "static/js/2.a645f20a.chunk.js": "/temple-ad/static/js/2.a645f20a.chunk.js",
+    "static/js/2.a645f20a.chunk.js.map": "/temple-ad/static/js/2.a645f20a.chunk.js.map",
     "index.html": "/temple-ad/index.html",
     "static/css/main.e136b62d.chunk.css.map": "/temple-ad/static/css/main.e136b62d.chunk.css.map",
-    "static/js/2.fbf6ec9e.chunk.js.LICENSE.txt": "/temple-ad/static/js/2.fbf6ec9e.chunk.js.LICENSE.txt",
+    "static/js/2.a645f20a.chunk.js.LICENSE.txt": "/temple-ad/static/js/2.a645f20a.chunk.js.LICENSE.txt",
     "static/media/smile.2d2dde74.jpg": "/temple-ad/static/media/smile.2d2dde74.jpg",
     "static/media/success.f2863b82.jpg": "/temple-ad/static/media/success.f2863b82.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8def02c2.js",
-    "static/js/2.fbf6ec9e.chunk.js",
+    "static/js/2.a645f20a.chunk.js",
     "static/css/main.e136b62d.chunk.css",
-    "static/js/main.60d7f60a.chunk.js"
+    "static/js/main.88caaef6.chunk.js"
   ]
 }
