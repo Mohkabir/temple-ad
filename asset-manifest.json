@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/temple-ad/static/css/main.e136b62d.chunk.css",
-    "main.js": "/temple-ad/static/js/main.88caaef6.chunk.js",
-    "main.js.map": "/temple-ad/static/js/main.88caaef6.chunk.js.map",
+    "main.js": "/temple-ad/static/js/main.dd75a462.chunk.js",
+    "main.js.map": "/temple-ad/static/js/main.dd75a462.chunk.js.map",
     "runtime-main.js": "/temple-ad/static/js/runtime-main.8def02c2.js",
     "runtime-main.js.map": "/temple-ad/static/js/runtime-main.8def02c2.js.map",
     "static/js/2.a645f20a.chunk.js": "/temple-ad/static/js/2.a645f20a.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8def02c2.js",
     "static/js/2.a645f20a.chunk.js",
     "static/css/main.e136b62d.chunk.css",
-    "static/js/main.88caaef6.chunk.js"
+    "static/js/main.dd75a462.chunk.js"
   ]
 }
